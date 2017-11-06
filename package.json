@@ -1,0 +1,15 @@
+{
+  "name": "pagerank",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/**/*.spec.js --reporter spec"
+  },
+  "author": "priyansh gupta <priyanshgupta1161@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}
