@@ -1,6 +1,6 @@
 const should = require('should')
 		, fs = require('fs')
-		, Pagerank = require('../index');
+		, Pagerank = require('../src/pageRank');
 
 describe('Page rank', function () {
 	this.timeout(0);
